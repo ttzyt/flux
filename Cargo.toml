@@ -6,6 +6,8 @@ description = "Search, monitor, and nuke processes with ease, with system resour
 license = "MIT"
 keywords = ["cli", "command-line", "process", "kill", "terminal"]
 categories = ["command-line-utilities"]
+repository = "https://github.com/VG-dev1/flux"
+readme = "README.md"
 
 [[bin]]
 name = "flux"
